@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pseudocode", "Pseudocode", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Raptor", "Raptor", "{C788D759-4E4B-4A20-8D82-39912B0EFE9B}"
 	ProjectSection(SolutionItems) = preProject
-		Task1\Task1.rap = Task1\Task1.rap
+		Task1.rap = Task1.rap
 	EndProjectSection
 EndProject
 Global
